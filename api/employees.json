@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Kenny",
+        "gender": "Male",
+        "maritalStatus": "Single",
+        "phone": "0135635476",
+        "email": "kenny@gmail.com",
+        "address": "Jalan Jelutong",
+        "dob": "2024-12-03",
+        "nationality": "Malaysian",
+        "hireDate": "2024-12-05",
+        "department": "IT"
+    },
+    {
+        "name": "Jone",
+        "gender": "Female",
+        "maritalStatus": "Married",
+        "phone": "0123421124",
+        "email": "jane@yahoo.com",
+        "address": "Jalan 456",
+        "dob": "2024-12-06",
+        "nationality": "Malaysian",
+        "hireDate": "2024-12-09",
+        "department": "HR"
+    }
+]
